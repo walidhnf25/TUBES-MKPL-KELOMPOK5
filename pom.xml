@@ -15,7 +15,7 @@
    <repository>
      <id>github</id>
      <name>GitHub OWNER Apache Maven Packages</name>
-     <url>https://github.com/walidhnf25/TUBES-MKPL-KELOMPOK5</url>
+     <url>https://maven.pkg.github.com/walidhnf25/TUBES-MKPL-KELOMPOK5</url>
    </repository>
 </distributionManagement>
 </project>
